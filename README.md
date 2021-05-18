@@ -35,7 +35,7 @@
 //There is an existing issue when logging in using a Resident Instructor Account, tried manually testing this and issue is also encountered but intermittent.
 //I was not able to proceed with the Student Account creation since it required an invitation from an Instructor. 
 
-//I have uploaded all of the files here, you may directly download this repository.
+//The test scripts are found in the -InstructorSignUpAndLoginTests.cs and StudentSignUpAndLoginTests.cs files.
 
 //Creating this solution took me around 10 hours since it was a first and I had to do some research. Thank you!
 
